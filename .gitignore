@@ -1,1 +1,6 @@
 0-starter-project/
+
+*.iml
+*.xml
+\.vscode
+
