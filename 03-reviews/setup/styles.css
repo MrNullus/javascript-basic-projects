@@ -204,7 +204,7 @@ main {
   position: relative;
 }
 .img-container::after {
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 5 Free", serif;
   font-weight: 900;
   content: "\f10e";
   position: absolute;
