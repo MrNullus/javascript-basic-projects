@@ -213,9 +213,9 @@ nav {
 .fixed-nav .links a:hover {
   color: var(--clr-secondary);
 }
-/* .fixed-nav .links-container {
+.fixed-nav .links-container {
   height: auto !important;
-} */
+}
 .nav-header {
   display: flex;
   align-items: center;
@@ -316,8 +316,7 @@ header {
 .container p {
   color: var(--clr-white);
   max-width: 25rem;
-  margin: 0 auto;
-  margin-bottom: 1.25rem;
+  margin: 0 auto 1.25rem;
 }
 @media screen and (min-width: 768px) {
   .container p {
